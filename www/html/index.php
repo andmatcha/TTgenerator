@@ -2,6 +2,7 @@
 
 try {
     require('../app/db-settings.php');
+    include('./form.php');
 ?>
 
 <?php
